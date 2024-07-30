@@ -1,0 +1,65 @@
+body{
+    background-image: url(../Images/weather_.jpg);
+ 
+     height: 100vh;
+}
+
+
+.form1 {
+   background-color: rgb(74, 74, 114);
+   height: 80px;
+   width: 100%;
+   top: 0;
+   left: 0;
+   position: fixed;
+   padding-left: 20px;
+}
+#form1{
+    margin-top: 20px;
+}
+#location{
+    background-color: rgb(22, 22, 71);
+    color: #fff;
+   
+    font-size: 50px;
+    padding-left: 30px;
+    text-transform: capitalize;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+#forecast{
+    background-color: rgb(22, 22, 71);
+    color: #fff;
+   
+    font-size: 50px;
+    padding-left: 30px;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+#latitude{
+    background-color: rgb(22, 22, 71);
+    color: #fff ;
+  
+    font-size: 50px;
+    padding-left: 30px;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+#longitude{
+    background-color: rgb(22, 22, 71);
+    color: #fff;
+   
+    font-size: 50px;
+    padding-left: 30px;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+#error{
+    background-color: rgb(22, 22, 71);
+    color: #fff;
+   
+    font-size: 50px;
+    padding-left: 30px;
+    border-radius: 20px;
+    opacity: 0.5;
+}
